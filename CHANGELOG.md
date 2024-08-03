@@ -1,3 +1,5 @@
+## [1.0.1](https://github.com/geo-quest/geo-quest.github.io/compare/v1.0.0...v1.0.1) (2024-08-03)
+
 ## 1.0.0 (2024-08-03)
 
 ### Features
